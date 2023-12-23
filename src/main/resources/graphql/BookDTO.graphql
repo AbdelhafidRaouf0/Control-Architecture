@@ -1,0 +1,4 @@
+type BookDTO{
+    title :String
+    publisher : String
+}

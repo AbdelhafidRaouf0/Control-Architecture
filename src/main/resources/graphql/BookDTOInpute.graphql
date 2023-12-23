@@ -1,0 +1,4 @@
+input BookDTOInpute{
+    title :String
+    publisher : String
+}
